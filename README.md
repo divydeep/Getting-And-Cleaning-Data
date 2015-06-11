@@ -6,3 +6,5 @@
 
 ###Dependencies
 #####Packages `data.table` and `dplyr`
+
+## Please read `Codebook.md` for more details
